@@ -77,4 +77,6 @@ public:
     virtual ~J<object>();
 };
 
+extern string readFile(string filename);
+
 #endif
